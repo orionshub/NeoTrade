@@ -1,0 +1,31 @@
+{
+  "name": "neo-trade",
+  "version": "1.0.0",
+  "description": "Neo trade discord bot to mimic the share market trading",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "trade",
+    "share",
+    "market",
+    "discord",
+    "bot",
+    "neo-trade"
+  ],
+  "author": "geekyorion",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}

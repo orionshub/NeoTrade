@@ -1,0 +1,4 @@
+# node modules folder
+node_modules/
+# local env file
+.env
